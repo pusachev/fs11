@@ -1,1 +1,1 @@
-console.log("server 2 js");
+console.log("serbnm,.ver 2 js");
